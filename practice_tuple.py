@@ -1,2 +1,2 @@
-tup = (2)
+tup = 2
 print(tup)
